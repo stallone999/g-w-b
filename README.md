@@ -6,5 +6,11 @@
 
 ## Tworzenie i usuwanie gałęzi
 
-Po co to robimy? Jakiś przykład.
+Po co to robimy? Jakiś przykład:
+
+* [Create and delete branches](https://github.com/blog/1377-create-and-delete-branches)
+
+## GFM
+
+* [Task Lists in GFM: Issues/Pulls, Comments](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
 
