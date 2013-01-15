@@ -4,7 +4,7 @@
 2. Wiki
 3. jBlog
 
-## Tworzenie i usuwanie gałęzi.
+## Tworzenie i usuwanie gałęzi
 
 Po co to robimy? Jakiś przykład.
 
