@@ -1,4 +1,6 @@
-g-w-b
-=====
+# Path to enlightment: GitHub–Wiki–Blog 
 
-GitHub -> Wiki -> Blog (Jekyll)
+1. Notatnik
+2. Wiki
+3. jBlog
+
