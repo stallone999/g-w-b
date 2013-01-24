@@ -4,6 +4,18 @@
 2. Wiki
 3. jBlog
 
+## Codeschool
+
+Online:
+
+* [Code School](http://www.codeschool.com/)
+* [Code Academy](http://www.codecademy.com/)
+
+
+# Misc stuff
+
+Różne rzeczy
+
 ## Tworzenie i usuwanie gałęzi
 
 Po co to robimy? Jakiś przykład:
