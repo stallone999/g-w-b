@@ -11,6 +11,15 @@ Online:
 * [Code School](http://www.codeschool.com/)
 * [Code Academy](http://www.codecademy.com/)
 
+Samouczki:
+
+* [Learn HTML & CSS in one easy to use guide](http://learn.shayhowe.com/html-css/)
+* [Learn Advanced HTML & CSS with one useful guide](http://learn.shayhowe.com/advanced-html-css/)
+
+## HTML5
+
+* [HTML5 Rocks](http://www.html5rocks.com/en/)
+
 
 # Misc stuff
 
