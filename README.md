@@ -20,10 +20,9 @@ Samouczki:
 
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
 
+## Math stuff
 
-# Misc stuff
-
-Różne rzeczy
+* [MathBox.js](https://github.com/unconed/MathBox.js)
 
 ## Tworzenie i usuwanie gałęzi
 
