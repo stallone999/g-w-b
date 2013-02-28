@@ -1,4 +1,4 @@
-# Path to enlightment: GitHub→Wiki→Blog
+# GitHub→Wiki→Blog
 
 1. [Notatnik](https://github.com/wbzyl/g-w-b/blob/master/Notatnik.md)
 2. Repozytorium na serwerze Github z Wiki
