@@ -23,7 +23,8 @@ pygmentize -S default -f html > pygments.css
 |-- _config.yml
 |-- images/
 |-- css
-|   `-- blog.css
+|   |-- blog.css
+|   `-- pygments.css
 |-- _layouts
 |   |-- default.html
 |   |-- index.html
@@ -36,7 +37,7 @@ pygmentize -S default -f html > pygments.css
 ```
 
 Konfiguracja konwertera z notacji Markdown na HTML
-oraz kolorowanie składni, *_config.yml:
+oraz kolorowanie składni, *_config.yml*:
 ```yaml
 markdown: rdiscount
 pygments: true
