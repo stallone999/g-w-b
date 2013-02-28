@@ -17,14 +17,16 @@ pygmentize -S default -f html > pygments.css
 
 ## Użycie
 
-[Jak działa Jekyll](https://github.com/mojombo/jekyll/wiki/usage) –
-struktura katalogów:
+[Jak działa Jekyll](https://github.com/mojombo/jekyll/wiki/usage):
 ```
 .
 |-- _config.yml
-|-- _includes
+|-- images/
+|-- css
+|   `-- blog.css
 |-- _layouts
 |   |-- default.html
+|   |-- index.html
 |   `-- post.html
 |-- _posts
 |   |-- 2013-02-29-why-every-programmer-likes-jekyll.md
@@ -42,5 +44,14 @@ permalink: ":year/:month/:day/:title/"
 ```
 Dopisujemy do szablonów:
 ```html
-<link href="/path/to/pygments.css" rel="stylesheet">
+<link href="../../../../pygments.css" rel="stylesheet">
 ```
+
+Każdy post zaczynamy od tzw. *front matter*, np:
+
+---
+layout: post
+title: Jekyll-Blog HOWTO
+tags: [jekyll, example]
+description: "przykładowy post"
+---
